@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(250, 213, 63);
+    font-family: simpson;
+}
+
+@font-face{
+  font-family: simpson;
+  src: url(../Pulang.ttf);
+}
+
+
+
+.Homero{
+  background-color: rgb(50, 50, 227);
+  color: aliceblue;
+  font-size: 20px;
+  padding: 3rem;
+  margin: 15px;
+  
+
+}
+
+.textohomero{
+
+  padding: 10px;
+
+}
+
+.margee{
+  color: black;
+  font-size: 20px;
+  padding: 3rem;
+  margin-top: 3rem;
+  
+}
+
+.texto{
+  margin-top: 40px;
+}
+
+.bartlisa{
+  background-color: rgb(50, 50, 227);
+  color: aliceblue;
+  font-size: 20px;
+  padding: 3rem;
+  margin: 15px;
+  
+  
+ 
+}
+
+.textolisa{
+  padding: 10px;
+}
+
+.textobart{
+  padding: 10px;
+}
+
+
+.textomaggie{
+  padding: 10px;
+}
+
+.maggies{
+  font-size: 20px;
+  padding: 3rem;
+  margin-top: 3rem;
+}
+
+.contacto{
+  margin-top: 4rem;
+}
+
+.foot{
+  padding: 5rem;
+}
+
+
+
+
+
+
+  
+
+  
