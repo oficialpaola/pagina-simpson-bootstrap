@@ -9,9 +9,11 @@ body {
     font-family: simpson;
 }
 
+
+
 @font-face{
   font-family: simpson;
-  src: url(../Pulang.ttf);
+  src: url(../tipografia/Pulang.ttf);
 }
 
 
@@ -80,6 +82,10 @@ body {
 
 .foot{
   padding: 5rem;
+}
+
+.bot{
+  padding: 2rem;
 }
 
 
